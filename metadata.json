@@ -1,0 +1,6 @@
+{
+  "name": "ChicWove - Modern Fashion eCommerce",
+  "description": "A pixel-perfect, modern women's fashion eCommerce store featuring stylish looks, curated collections, dynamic product catalogs, detailed product views, and seamless shopping cart experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
